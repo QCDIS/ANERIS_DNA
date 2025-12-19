@@ -22,3 +22,8 @@ python /home/jovyan/library/enaBrowserTools/python3_1.6/enaDataGet.py -f fastq -
 ls
 rm -rf ena/
 ls
+ls
+ls /mnt/
+ls
+ls /home/
+exit
